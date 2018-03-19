@@ -1,1 +1,2 @@
-# Go
+# go-vue-template
+GoとVueのテンプレート
